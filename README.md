@@ -1,4 +1,4 @@
-# Card-Component
+# NFT Preview
 
 Simple static site made with:
 
